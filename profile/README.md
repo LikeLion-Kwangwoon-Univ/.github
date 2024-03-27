@@ -1,9 +1,9 @@
 <div align="center">
 <h2>🦁 2024 광운대학교 멋쟁이사자 🦁</h2>
-<img src="https://github.com/LikeLion-Kwangwoon-Univ/.github/assets/103398790/256b974a-7897-4c84-aff5-516a4a150b4d" width="300px"/>
+<img src="https://github.com/LikeLion-Kwangwoon-Univ/.github/assets/103398790/256b974a-7897-4c84-aff5-516a4a150b4d" width="280px"/>
 </div>
 
-## 운영진 소개
+## 🙇🏻‍♂️ 운영진 소개 🙇🏻‍♀️
 
 ### 🖥️ 백엔드
 
@@ -16,5 +16,5 @@
 
 | 김태기                                                                                                                              | 배혜윤                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/LikeLion-Kwangwoon-Univ/.github/assets/103398790/256b974a-7897-4c84-aff5-516a4a150b4d" width="200px"/> | <img src="https://github.com/LikeLion-Kwangwoon-Univ/.github/assets/103398790/256b974a-7897-4c84-aff5-516a4a150b4d" width="200px"/> |
+| <img src="https://github.com/LikeLion-Kwangwoon-Univ/.github/assets/103398790/256b974a-7897-4c84-aff5-516a4a150b4d" width="180px"/> | <img src="https://github.com/LikeLion-Kwangwoon-Univ/.github/assets/103398790/256b974a-7897-4c84-aff5-516a4a150b4d" width="180px"/> |
 | 프론트엔드 나무반 운영진                                                                                                            | 프론트엔드 새싹반 운영진                                                                                                            |
